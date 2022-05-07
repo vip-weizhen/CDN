@@ -5,5 +5,5 @@
 我们可以使用第三方播放器进行解码。
 推荐使用 [Potplayer](http://118.31.171.185:5200/d/%E5%A4%87%E7%94%A8%E7%9B%98/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/PotPlayer_v220302_1.7.21620_x64_Stable.exe)
 使用方法是在电脑上下载安装完Potplayer，
-点击视频播放页面下面的扩展按钮即可使用Potplayer播放。
-![](https://pic.imgdb.cn/item/625d2841239250f7c503e145.png)
+点击视频播放页面下面的扩展按钮 Potplayer 即可使用Potplayer播放。
+
