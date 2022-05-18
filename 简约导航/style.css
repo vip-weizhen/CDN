@@ -426,8 +426,8 @@ body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd {
     font-size: 23px;
 }
 span.zdy_edit {
-	/*url(img/edit.ico)*/
-    background: url(../img/edit.ico);
+	/*url(/简约导航/img/edit.ico)*/
+    background: url(../简约导航/img/edit.ico);
     background-size: 20px 20px;
     width: 20px;
     height: 20px;
