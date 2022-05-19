@@ -8,6 +8,10 @@
 
 https://cdn.jsdelivr.net/gh/vip-weizhen/CDN/sites.png
 
+jsDelivr最近失效了 使用方法: cdn.jsdelivr.net 改为 cdn.ravi.cool 即可
+
+https://cdn.ravi.cool/gh/vip-weizhen/sites/style.min.css
+
 自建CDN
 
 https://cdn.weizhen.xyz/https://raw.githubusercontent.com/vip-weizhen/CDN/main/sites.png
