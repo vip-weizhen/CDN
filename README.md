@@ -11,6 +11,7 @@ https://cdn.jsdelivr.net/gh/vip-weizhen/CDN/sites.png
 jsDelivr最近失效了 
 
 https://raw.gh.fakev.cn/vip-weizhen/CDN/main/zhifeiji.png
+https://raw.gh.fakev.cn/vip-weizhen/sites/master/style.min.css
 
 自建CDN
 
