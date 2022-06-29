@@ -8,9 +8,9 @@
 
 https://cdn.jsdelivr.net/gh/vip-weizhen/CDN/sites.png
 
-jsDelivr最近失效了 使用方法: cdn.jsdelivr.net 改为 cdn.ravi.cool 即可
+jsDelivr最近失效了 
 
-https://cdn.ravi.cool/gh/vip-weizhen/CDN/sites.png
+https://raw.gh.fakev.cn/vip-weizhen/CDN/main/zhifeiji.png
 
 自建CDN
 
