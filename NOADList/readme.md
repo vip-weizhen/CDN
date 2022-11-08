@@ -1,4 +1,4 @@
-广告规则订阅
+电脑（PC）广告规则订阅
 
 anti-AD for AdGuard
 
@@ -20,3 +20,16 @@ https://cdn.weizhen.xyz/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-R
 ChinaList+EasyList(修正)
 
 https://cdn.weizhen.xyz/http://sub.adtchrome.com/adt-chinalist-easylist.txt
+
+手机广告规则
+
+AdGuard for Android
+
+主规则订阅地址
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+百度搜索结果内屏蔽百家号
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+
