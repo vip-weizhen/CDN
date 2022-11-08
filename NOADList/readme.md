@@ -21,6 +21,12 @@ ChinaList+EasyList(修正)
 
 https://cdn.weizhen.xyz/http://sub.adtchrome.com/adt-chinalist-easylist.txt
 
+GOODBYEADS
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt
+
+
+
 手机广告规则
 
 AdGuard for Android
