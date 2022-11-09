@@ -25,6 +25,13 @@ GOODBYEADS
 
 https://cdn.weizhen.xyz/https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt
 
+cjxlist
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt  (ubo专用)
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt  （反自我推广）
+
+
 
 
 手机广告规则
