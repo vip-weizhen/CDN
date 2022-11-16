@@ -31,6 +31,9 @@ https://cdn.weizhen.xyz/https://raw.githubusercontent.com/cjx82630/cjxlist/maste
 
 https://cdn.weizhen.xyz/https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt  （反自我推广）
 
+IMBALIST
+
+https://gist.githubusercontent.com/imba-tjd/2c9817233ac6798d4f2bfe057f781ca5/raw/IMBALIST.TXT
 
 
 
