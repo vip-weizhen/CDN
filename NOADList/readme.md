@@ -36,6 +36,10 @@ https://cdn.weizhen.xyz/https://raw.githubusercontent.com/cjx82630/cjxlist/maste
 
 手机广告规则
 
+Mobile Ads
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
+
 AdGuard for Android
 
 主规则订阅地址
