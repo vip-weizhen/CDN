@@ -35,6 +35,10 @@ IMBALIST
 
 https://gist.githubusercontent.com/imba-tjd/2c9817233ac6798d4f2bfe057f781ca5/raw/IMBALIST.TXT
 
+G O O D B Y E A D S
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+
 
 
 手机广告规则
