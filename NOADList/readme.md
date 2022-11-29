@@ -39,6 +39,10 @@ G O O D B Y E A D S
 
 https://cdn.weizhen.xyz/https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
 
+AdRules
+
+https://cdn.weizhen.xyz/https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
+
 
 
 手机广告规则
